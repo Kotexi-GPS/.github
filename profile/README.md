@@ -1,12 +1,11 @@
-## Hi there 👋
+<p align="center">
+    <img src="./kotexi.png" alt="Logo de Kotexi" width="300">
+</p>
 
-<!--
+## 🌟 Acerca de Kotexi
 
-**Here are some ideas to get you started:**
+Kotexi es una empresa especializada en "soluciones tecnológicas para la gestión de flotas y sistemas de geolocalización". Nos enfocamos en ofrecer herramientas innovadoras que ayudan a nuestros clientes a optimizar sus operaciones y mejorar la eficiencia.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📌 Encuéntranos en:
+- [Sitio web oficial](http://kotexi.com/).
+- [Facebook](https://www.facebook.com/kotexi).
